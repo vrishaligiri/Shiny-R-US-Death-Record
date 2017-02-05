@@ -1,0 +1,10 @@
+name: us-death-record
+title: US-Death-Record
+account: myprojects
+server: shinyapps.io
+appId: 153432
+bundleId: 697621
+url: https://myprojects.shinyapps.io/us-death-record/
+when: 1485972220.27267
+asMultiple: FALSE
+asStatic: FALSE
